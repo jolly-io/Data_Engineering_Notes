@@ -1,5 +1,8 @@
 ### Data_Engineering_Articles
 
+`Setting the scene`
+As you go through this material, picture yourself as new data engineer hire in your organization. Your task will be to understand the needs of your stakeholders as first principles approach to understanding and translating the needs of the buiness into technical solutions  
+
 This is a journal of my self-study and research on Data Engineering and its Ecosystem
 
 ## What is Data Engineering?
