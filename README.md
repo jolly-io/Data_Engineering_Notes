@@ -1,4 +1,4 @@
-### Data_Engineering_Articles
+### Data_Engineering_Notebook
 
 `Setting the scene`
 
@@ -8,7 +8,7 @@ As you go through this material, picture yourself as new data engineer hire in y
 This is a journal of my self-study and research on Data Engineering and its Ecosystem
 
 ## What is Data Engineering?
-Data Engineering is the development, implementation, and maintenance of systems and processes that take in raw data (generate and ingest), transforms it and produce high-quality consistent information that supports downstream use cases.
+Data Engineering is the development, implementation, and maintenance of systems and processes that take in raw data (generate and ingest), transforms it and produce high-quality consistent information that supports downstream use cases such as analysis and machine learning.
 
 ### Data Engineering Lifecycle: The core stages of the data engineering lifecyle are as follows:
 - `Generation`:
@@ -41,7 +41,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
 -  Transformation
 -  Serving
 
-  There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end lifecycle. These include the following
+  There is also the notion of `undercurrents` - these are critical themes and concepts around the end-to-end data lifecycle. These include the following
 - Security
 - Data Management
 - DataOps
