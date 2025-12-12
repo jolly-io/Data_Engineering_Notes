@@ -110,8 +110,13 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 ### Data Engineering on the `AWS Cloud`:
 
-`Cloud Computing` is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing.
+`Cloud Computing` is the on-demand delivery of IT resources over the internet with pay-as-you-go pricing. AWS is structured geographically across regions with multiple availability zones, which are clusters of one or more physical data centers. 
 
+## AWS Core Services
+- Compute Services such as EC2
+- Networking such as Amazon Virtual Private Cloud
+- Storage (object, block and file)
+- Security (shared responsibilit model)
  
 
 
