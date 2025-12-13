@@ -119,7 +119,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - Security (shared responsibilit model)
 
 ## Compute - Amazon Elastic Compute Cloud (EC2)
-- EC2 (Elastic Compute Cloud) is an example of AWS compute service which represents a virtual or virtual machine.
+- EC2 (Elastic Compute Cloud) is an example of AWS compute service which represents a virtual servers or virtual machine. A server is like a computer or set of computers that hosts and runs your applications. It consists of physical hardware (CPU, RAM, Storage, Networking components), an operating system installed on top the hardware, and finally the applications that run on top of the operating system.
+- Hypervisor: A hypervisor is a software component that enables the sharing of physical computing resources among multiple virtual machines.
  
 
 
