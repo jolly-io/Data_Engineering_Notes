@@ -121,6 +121,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 ## Compute - Amazon Elastic Compute Cloud (EC2)
 - EC2 (Elastic Compute Cloud) is an example of AWS compute service which represents a virtual servers or virtual machine. A server is like a computer or set of computers that hosts and runs your applications. It consists of physical hardware (CPU, RAM, Storage, Networking components), an operating system installed on top the hardware, and finally the applications that run on top of the operating system.
 - Hypervisor: A hypervisor is a software component that enables the sharing of physical computing resources among multiple virtual machines.
+- Spot Instances: Spot instances are unused EC2 computing resources available at a discount compared to on-demand prices, offering cost savings for flexible workloads.
+- On-Demand Instances; On-demand instances provide compute capabity with no long-term commitments, allowing users to pay for what they use.
  
 
 
