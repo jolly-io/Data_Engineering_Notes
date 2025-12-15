@@ -126,7 +126,9 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 ## Networking
  - A network is simply a collection of devices connected together, where each connection can be a request sent from one device to another  or a response to a request.
- - In a given network, each device is assigned an Internet Protocol (IP), `which is a series of digits that uniquely identifies each device within the network`. These addresses ensure that responses and requests are sent to the correct devices
+ - In a given network, each device is assigned an *Internet Protocol* (IP), `which is a series of digits that uniquely identifies each device within the network`. These addresses ensure that responses and requests are sent to the correct devices
+ - CIDR is Classless Inter-Domain Routing
+ - Virtual Private Cloud (VPC): is an isolated private network where you can launch your AWS resources. 
 
 
 
