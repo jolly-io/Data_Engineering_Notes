@@ -123,6 +123,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - Hypervisor: A hypervisor is a software component that enables the sharing of physical computing resources among multiple virtual machines.
 - Spot Instances: Spot instances are unused EC2 computing resources available at a discount compared to on-demand prices, offering cost savings for flexible workloads.
 - On-Demand Instances; On-demand instances provide compute capabity with no long-term commitments, allowing users to pay for what they use.
+
+## Networking
  
 
 
