@@ -143,6 +143,44 @@ This notation means that the first 24 bits are fixed and the last 8 bits can be 
    
     ![Alt text](Subnet_image.png)
 
+## Security
+- When you host your applications and resources in the cloud, you're offloading the heavy duty of managing the physical hardware to the cloud provider. The security of the physical facility is the responsibility of the cloud provider. However, you still own your data in AWS and you have complete control of it, so are responsible for managing its security. This is known as the `shared responsibility model` of AWS.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
 
 
 
