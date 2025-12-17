@@ -132,7 +132,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
    `192.101.0.0/24`
 
-This notation means that the first 24 bits are fixed and the last 8 bits can be any bits. In other words, 192.101.0.0/24 represents all IP addresses between 192.101.0.0 and 192.101.0.255.
+       This notation means that the first 24 bits are fixed and the last 8 bits can be any bits. In other words, 192.101.0.0/24 represents all IP addresses between 192.101.0.0 and 192.101.0.255.
  - 
  - Virtual Private Cloud (VPC): is an isolated private network where you can launch your AWS resources. A VPC exists inside a region, which can contain more than one VPC, and a VPC spans multiple availability zones inside the region. A VPC is a way to isolate your resources such as EC2 from the outside world.
  
