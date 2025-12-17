@@ -145,6 +145,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 ## Security
 - When you host your applications and resources in the cloud, you're offloading the heavy duty of managing the physical hardware to the cloud provider. The security of the physical facility is the responsibility of the cloud provider. However, you still own your data in AWS and you have complete control of it, so are responsible for managing its security. This is known as the `shared responsibility model` of AWS.
+- AWS is responsible for the `security of the cloud`. You are responsible for the `security in the cloud`.
 
 
 
