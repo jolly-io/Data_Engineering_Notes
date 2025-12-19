@@ -116,9 +116,9 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - Compute Services such as EC2
 - Networking such as Amazon Virtual Private Cloud
 - Storage (object, block and file)
-    * Object storage is often used for storing unstructured data. e.g Amazon S3.
-    * Block storage is used for database storage, virtual machine file systems, and other low-latency environments. e.g Amazon Elastic Block Storage (EBS)
-    *    * 
+    * Object storage is often used for storing unstructured data. e.g Amazon Simple Storage Service (S3)
+    * Block Storage is used for database storage, virtual machine file systems, and other low-latency environments. e.g Amazon Elastic Block Storage (EBS)
+    * File Storage is used to organize data into files and directories in a hierarchical structure. e.g Amazon Elastic File System (EFS)
 - Security (AWS shared responsibilit model)
 
 ## Compute - Amazon Elastic Compute Cloud (EC2)
