@@ -96,7 +96,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 - Learn what ACTION stakeholders plan to take with the data. This is very important and revealing that you may think initially
    * Repeat what you learned back to your stakeholders for alignment and identify any other stakeholders you still need to talk to fill in gaps in your
      contextual understanding of the business problems.
-- Ask your stakeholders what `action` they plan to take with the data. This is not the same as asking what they need.
+- Ask your stakeholders what `action` they plan to take with the data. This will help you get clarity on the end use case of the data and This is not     the same as asking what they need.
 
 ## Thinking Like a Data Engineer
 - Identify business goals and stakeholder needs
