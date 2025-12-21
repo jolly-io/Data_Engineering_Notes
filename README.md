@@ -100,6 +100,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 ## Thinking Like a Data Engineer
 - Identify business goals and stakeholder needs
+  * explore existing systems and ask stakeholders what actions they will take with the data product
 - Define system requirements
   * Translate stakeholder needs to functional requirements
   * define non-functional requirements
