@@ -160,7 +160,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 
 
-
+The process of capturing patterns from data is called fitting or training a model.The data used is called the training data
 
 
 
