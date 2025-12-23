@@ -160,6 +160,8 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 The process of capturing patterns from data is called fitting or training a model.The data used is called the training data. In a Decision Tree model, the point at which we work through the entire Splits and make our final prediction is called a LEAF. The Split we create in the decision tree is determined by the data we use.
 
+Pandas is the primary tool data scientist for exploring and manipulating data. The most important part of the Pandas library is the DataFrame.
+
 
 
 
