@@ -165,7 +165,11 @@ Pandas is the primary tool data scientist for exploring and manipulating data. T
 `import pandas as pd` is the command we use to provision the pandas library when analyzing a dataset.
 
 The Eight Number Summary Statistics. 
-- The pandas `describe()` method is used to calculate and provide an eight-number summary statistics of the data frame. These include count (number of rows), mean, standard deviation, mininum, maximum, twenty-fifth percentile, fiftieth-percentile, and seventy-fifth percentile.
+- The pandas `describe()` method is used to calculate and provide an eight-number summary statistics of the data frame. These include
+- count (number of rows),
+- mean, standard deviation,
+- mininum, maximum,
+- twenty-fifth percentile, fiftieth-percentile, and seventy-fifth percentile.
 
 
 
