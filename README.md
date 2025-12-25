@@ -175,8 +175,8 @@ The Eight Number Summary Statistics.
   * Fiftieth-percentile
   * seventy-fifth percentile
 
-
-
+        #print summary stats
+              pd.read_csv()
 
 
 
