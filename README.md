@@ -169,7 +169,7 @@ The Eight Number Summary Statistics.
   * count (number of rows)
   * mean
   * standard deviation
-  * mininum value,
+  * mininum value
   * maximum value,
   * Twenty-fifth percentile,
   & Fiftieth-percentile,
