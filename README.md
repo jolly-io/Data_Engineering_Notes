@@ -170,7 +170,7 @@ The Eight Number Summary Statistics.
   * mean
   * standard deviation
   * mininum value
-  * maximum value,
+  * maximum value
   * Twenty-fifth percentile,
   & Fiftieth-percentile,
   * seventy-fifth percentile.
