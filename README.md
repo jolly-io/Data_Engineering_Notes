@@ -167,7 +167,7 @@ Pandas is the primary tool data scientist for exploring and manipulating data. T
 The Eight Number Summary Statistics. 
 - The pandas `describe()` method is used to calculate and provide an eight-number summary statistics of the data frame. These include
   * count (number of rows)
-  * mean,
+  * mean
   * standard deviation,
   * mininum value,
   * maximum value,
