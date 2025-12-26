@@ -113,7 +113,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
   * prototype and test your system, aligning with stakeholder needs
 - Build, Evaluate, Iterate and Evolve your system based on stakeholder needs
 
-  *Business requirements define the high level goals of the business. Stakeholders  *
+  *Business requirements define the high level goals of the business. Stakeholder requirements define the needs of the individual within the organization to meet those business goals. System requirements define what a system needs to be able to do in order to meet business and stakeholder*
 
 
 ### Data Engineering on the `AWS Cloud`:
