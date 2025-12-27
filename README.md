@@ -117,7 +117,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 **Business requirements define the high level goals of the business. Stakeholder requirements define the needs of the individuals within the organization to meet those business goals. System requirements define what a system needs to be able to do in order to meet business and stakeholder requirements*
 
 
-### Data Engineering on the `AWS Cloud`:
+## Data Engineering on the `AWS Cloud`:
 
 `Cloud Computing` is the on-demand delivery of information technology (IT) resources over the internet with pay-as-you-go pricing. AWS is structured geographically across regions with multiple availability zones, which are clusters of one or more physical data centers. 
 
@@ -125,7 +125,7 @@ I'm Back. Let's PICK FROM WHERE WE STOPPED :--
 
 A Virtual Server is a software representation or emulation of an actual physical server.
 
-A Virtual Private Cloud (VPC) exists inside a region, which can contain more than one VPC, and a VPC spans multiple  availability zones within the region.
+A Virtual Private Cloud (VPC) exists inside a region, which can contain more than one VPC, and a VPC spans multiple  availability zones within the region. VPC is a way to isolate your resources from the outside world.
 
 ## AWS Core Services
 - Compute Services such as AWS Elastic Compute Cloud (EC2). EC2 is a virtual server in the AWS cloud.
