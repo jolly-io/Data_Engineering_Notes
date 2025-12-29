@@ -5,7 +5,7 @@
 
 As you go through this material, picture yourself as a new data engineer hire in your organization. Your task will be to understand the needs of your stakeholders adopting a first principles approach to align and translate the needs of the buiness into technical solutions.  
 
-This is a journal of my self-study and research on Data Engineering and related areas
+#Research Notes on Data Science and Engineering
 
 ## What is Data Engineering?
 Data Engineering is the development, implementation, and maintenance of systems and processes that take in raw data (generate and ingest), transforms it and produce high-quality consistent information that supports downstream use cases such as analysis and machine learning. Data Engineering sits at the intersection of security, data ops, data architecture, Data management and software engineering.
