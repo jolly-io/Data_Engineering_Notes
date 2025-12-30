@@ -21,7 +21,7 @@ Data Engineering is the development, implementation, and maintenance of systems 
      - `The following questions can be asked to evaluate a source system:`
      - What are the essential characteristics of the data source? Is it an application? or A swarm of IoT devices?
      - Does the data persist long term or short term before deletion?
-     - What is the speed of generation and what are the rate of errors, if any? This is the latency
+     - What is the speed of generation and what are the rate of errors, if any? This is known as the latency
      - What is the schema of the ingested data?
      - How frequently should data be pulled from the source system?
      - Will reading from a data source impact its performance?
