@@ -50,7 +50,7 @@ As a data engineer, developing and having a good working relationship with the s
         - Is the source data in good shape for immediate downstream use? And for how long?
        
           `Batch Ingestion`: is a convenient way to process stream of events in large chunks based on a predetermined time interval or on a preset size threshold. E.g an entire day's worth of data can he handled in a single batch. This is a practical and widely used way of processing data for analytics and machine learning.
-          `Streaming Ingestion`: 
+          `Streaming Ingestion`: is providing continuous, near real-time  ingestion in a 
           
 -  `Transformation`
 -  `Serving`
