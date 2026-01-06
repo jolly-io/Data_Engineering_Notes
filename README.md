@@ -42,6 +42,7 @@ As a data engineer, developing and having a good working relationship with the s
   - The bottom layer of the hierachy consists of raw storage ingredients like SSD and magnetic disks, along with processes like networking, serialization, and compression.
   - The middle layer consists of storage systems like databases and object storage that are built on top of the raw ingredients.
   - The top layer consists of the bottom and middle layers arranged into storage abstractions like data warehouse, data lakes, and data lakehouses.
+
     
     
 -  `Ingestion`:
