@@ -43,6 +43,7 @@ As a data engineer, developing and having a good working relationship with the s
   - The middle layer consists of storage systems like databases and object storage that are built on top of the raw ingredients.
   - The top layer consists of the bottom and middle layers arranged into storage abstractions like data warehouse, data lakes, and data lakehouses.
     
+    
 -  `Ingestion`:
       * Source systems and Ingestion presents the most significant bottle-necks of the data engineering lifecycle. This is because the engineer has little to no control of the management of these two processes. Unreliable source and ingestion systems have ripple effects across the data engineering lifecyle. To architect and build a system, the following considerations are critical to keep in mind:
         - What are the use cases for the data being ingested? Is the data good for reuse rather than creating multiple versions of the same dataset?
