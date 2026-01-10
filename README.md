@@ -25,7 +25,6 @@ Data Engineering is the development, implementation, and maintenance of systems 
      - What is the schema of the ingested data?
      - How frequently should data be pulled from the source system?
      - Will reading data from its source impact its performance?
-       
 As a data engineer, developing and having a good working professional relationship with the stakeholders of source systems you'll be working with is a crucial piece of data engineering success.They will help avoid unecessary pitfalls as they have proximity to your data sources.
 
 - `Storage`:
